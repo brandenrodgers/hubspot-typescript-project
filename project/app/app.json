@@ -1,5 +1,5 @@
 {
-  "name": "Example App",
+  "name": "Typescript App",
   "description": "An example private app that contains a single CRM card extension.",
   "scopes": [
     "crm.objects.contacts.read",
