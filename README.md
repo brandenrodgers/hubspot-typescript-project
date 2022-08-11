@@ -1,2 +1,2 @@
 # hubspot-typescript-project
-HubSpot Typescript Project
+HubSpot Typescript Project POC
