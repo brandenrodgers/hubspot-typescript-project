@@ -55,7 +55,7 @@ exports.main = function (context, sendResponse) { return __awaiter(_this, void 0
                 introMessage = {
                     type: "text",
                     format: "markdown",
-                    text: "_A typescript example of a CRM card extension that displays data from Hubspot, uses ZenQuotes public API to display daily quote, and demonstrates custom actions using serverless functions._"
+                    text: "_A typescript example of a CRM card extension._"
                 };
                 _a.label = 1;
             case 1:
