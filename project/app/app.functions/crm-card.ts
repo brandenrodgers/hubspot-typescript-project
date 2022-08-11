@@ -12,7 +12,7 @@ exports.main = async (
   const introMessage = {
     type: "text",
     format: "markdown",
-    text: "_A typescript example of a CRM card extension that displays data from Hubspot, uses ZenQuotes public API to display daily quote, and demonstrates custom actions using serverless functions._",
+    text: "_A typescript example of a CRM card extension._",
   };
 
   try {
