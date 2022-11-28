@@ -25,7 +25,7 @@ exports.main = async (
           {
             type: "text",
             format: "markdown",
-            text: `**Hello ${firstname}, here's your quote for the day**!`
+            text: `**Hello ${firstname}, here's your quote for the day**!!`
           },
           {
             type: "text",
